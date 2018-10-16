@@ -1,0 +1,10 @@
+This material was created by Nick Parlante working in the engEDU group at Google. 
+Special thanks for the help from my Google colleagues :
+	John Cox, 
+	Steve Glassman, 
+	Piotr Kaminksi, 
+	Antoine Picard. 
+And finally thanks to Google and my director :
+	Maggie Johnson 
+for the enlightened generosity to put these materials out on the internet 
+for free under the Creative Commons Attribution 2.5 license -- share and enjoy!
