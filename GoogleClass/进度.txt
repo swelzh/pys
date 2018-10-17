@@ -1,3 +1,8 @@
 Python Course
 	Overview->Python Set Up->Introduction->String->
+
+…Done
+
+总结：相对简单
+RegualrExpression的内容对我很有用！
 	
